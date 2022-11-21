@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<svg width="247.513" height="243.434">
+  <defs> 
+    <marker id="ArrowEnd" viewBox="0 0 10 10" refX="0" refY="5" 
+     markerUnits="strokeWidth" 
+     markerWidth="4" 
+     markerHeight="3" 
+     orient="auto"> 
+        <path d="M 0 0 L 10 5 L 0 10 z" /> 
+    </marker>
+    <marker id="ArrowStart" viewBox="0 0 10 10" refX="10" refY="5" 
+     markerUnits="strokeWidth" 
+     markerWidth="4" 
+     markerHeight="3" 
+     orient="auto"> 
+        <path d="M 10 0 L 0 5 L 10 10 z" /> 
+    </marker> </defs>
+<g>
+<path style="stroke:#000000; stroke-width:0.90000000000000002; fill:none; font-family:Times; font-size:12.0" d="M 82.419 94.7167L 73.419 94.7167L 59.919 112.717L 55.419 148.717L 100.419 148.717L 95.919 112.717L 82.419 94.7167"/>
+<path style="stroke:#000000; stroke-width:0.90000000000000002; fill:none; font-family:Times; font-size:12.0" d="M 28.419 193.717L 127.419 193.717L 127.419 238.717L 28.419 238.717L 28.419 193.717L 28.419 193.717L 28.419 193.717z"/>
+<path style="stroke:#000000; stroke-width:0.90000000000000002; fill:none; font-family:Times; font-size:12.0" d="M 100.419 193.717L 100.419 166.717L 136.419 166.717L 136.419 121.717L 100.419 76.7167L 100.419 31.7167L 127.419 31.7167L 127.419 4.71677L 28.419 4.71677L 28.419 31.7167L 55.419 31.7167L 55.419 76.7167L 19.419 121.717L 19.419 166.717L 55.419 166.717L 55.419 193.717"/>
+<path style="stroke:#000000; stroke-width:0.90000000000000002; fill:none; font-family:Times; font-size:12.0" d="M 28.419 193.717L 28.419 229.717L 10.4189 229.717L 10.4189 175.717L 46.419 175.717L 46.419 193.717"/>
+<path style="stroke:#000000; stroke-width:0.90000000000000002; fill:none; font-family:Times; font-size:12.0" d="M 109.419 193.717L 109.419 175.717L 145.419 175.717L 145.419 229.717L 127.419 229.717L 127.419 193.717"/>
+<path style="stroke:#000000; stroke-width:0.90000000000000002; fill:none; font-family:Times; font-size:12.0" d="M 126.621 40.6164L 113.053 68.4318L 136.131 80.7353L 150.288 51.1622L 126.621 40.6164L 126.621 40.6164z"/>
+<path style="stroke:#000000; stroke-width:0.90000000000000002; fill:none; font-family:Times; font-size:12.0" d="M 18.2842 40.6164L 4.71676 68.4318L 27.7945 80.7353L 41.9517 51.1622L 18.2842 40.6164L 18.2842 40.6164z"/>
+<path style="stroke:#000000; stroke-width:0.90000000000000002; fill:none; font-family:Times; font-size:12.0" d="M 145.419 225.217L 14.9189 22.7167"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 242.272 214.941L 225.034 18.8612"/>
+</g>
+</svg>

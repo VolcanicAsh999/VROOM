@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<svg width="564.482" height="471.816">
+  <defs> 
+    <marker id="ArrowEnd" viewBox="0 0 10 10" refX="0" refY="5" 
+     markerUnits="strokeWidth" 
+     markerWidth="4" 
+     markerHeight="3" 
+     orient="auto"> 
+        <path d="M 0 0 L 10 5 L 0 10 z" /> 
+    </marker>
+    <marker id="ArrowStart" viewBox="0 0 10 10" refX="10" refY="5" 
+     markerUnits="strokeWidth" 
+     markerWidth="4" 
+     markerHeight="3" 
+     orient="auto"> 
+        <path d="M 10 0 L 0 5 L 10 10 z" /> 
+    </marker> </defs>
+<g>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 257.908 5.24084L 52.5738 79.9078L 5.24084 264.575L 95.2408 423.908L 279.908 466.575L 505.907 413.908L 559.241 203.241L 449.908 51.2408L 257.908 5.24084L 257.908 5.24084L 257.908 5.24084z"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 235.434 319.575L 232.29 335.145L 223.718 347.859L 211.004 356.431L 195.434 359.575L 179.864 356.431L 167.15 347.859L 158.578 335.145L 155.434 319.575L 158.578 304.005L 167.15 291.291L 179.864 282.719L 195.434 279.575L 211.004 282.719L 223.718 291.291L 232.29 304.005L 235.434 319.575L 235.434 319.575L 235.434 319.575z"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 282.065 228.785L 278.921 244.355L 270.349 257.069L 257.635 265.641L 242.065 268.785L 226.495 265.641L 213.781 257.069L 205.209 244.355L 202.065 228.785L 205.209 213.215L 213.781 200.501L 226.495 191.929L 242.065 188.785L 257.635 191.929L 270.349 200.501L 278.921 213.215L 282.065 228.785L 282.065 228.785L 282.065 228.785z"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 382.067 231.943L 378.922 247.513L 370.35 260.227L 357.637 268.799L 342.067 271.943L 326.498 268.799L 313.783 260.227L 305.211 247.513L 302.067 231.943L 305.211 216.373L 313.783 203.659L 326.498 195.087L 342.067 191.943L 357.637 195.087L 370.35 203.659L 378.922 216.373L 382.067 231.943L 382.067 231.943L 382.067 231.943z"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 334.486 311.944L 331.341 327.514L 322.77 340.228L 310.056 348.8L 294.485 351.944L 278.915 348.8L 266.201 340.228L 257.629 327.514L 254.485 311.944L 257.629 296.374L 266.201 283.66L 278.915 275.088L 294.485 271.944L 310.056 275.088L 322.77 283.66L 331.341 296.374L 334.486 311.944L 334.486 311.944L 334.486 311.944z"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 444.066 311.417L 440.922 326.987L 432.35 339.701L 419.636 348.273L 404.066 351.417L 388.496 348.273L 375.782 339.701L 367.21 326.987L 364.066 311.417L 367.21 295.847L 375.782 283.133L 388.496 274.561L 404.066 271.417L 419.636 274.561L 432.35 283.133L 440.922 295.847L 444.066 311.417L 444.066 311.417L 444.066 311.417z"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 343.013 146.155L 339.87 161.725L 331.298 174.439L 318.583 183.011L 303.013 186.155L 287.443 183.011L 274.729 174.439L 266.157 161.725L 263.013 146.155L 266.157 130.585L 274.729 117.871L 287.443 109.299L 303.013 106.155L 318.583 109.299L 331.298 117.871L 339.87 130.585L 343.013 146.155L 343.013 146.155L 343.013 146.155z"/>
+<path style="stroke:#0000ff; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 300.486 384.575L 288.908 384.575L 288.908 371.944L 300.486 371.944L 300.486 384.575L 300.486 384.575z"/>
+<path style="stroke:#ff00ff; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 454.408 360.707L 442.83 360.707L 442.83 348.075L 454.408 348.075L 454.408 360.707L 454.408 360.707z"/>
+<path style="stroke:#00ffff; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 398.539 209.155L 386.961 209.155L 386.961 196.523L 398.539 196.523L 398.539 209.155L 398.539 209.155z"/>
+<path style="stroke:#007f00; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 144.697 365.628L 133.119 365.628L 133.119 352.996L 144.697 352.996L 144.697 365.628L 144.697 365.628z"/>
+<path style="stroke:#7e0000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 199.697 208.496L 188.119 208.496L 188.119 195.864L 199.697 195.864L 199.697 208.496L 199.697 208.496z"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 233.645 142.47L 230.5 158.04L 221.928 170.754L 209.215 179.326L 193.644 182.47L 178.074 179.326L 165.36 170.754L 156.788 158.04L 153.644 142.47L 156.788 126.9L 165.36 114.186L 178.074 105.614L 193.644 102.47L 209.215 105.614L 221.928 114.186L 230.5 126.9L 233.645 142.47L 233.645 142.47L 233.645 142.47z"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 486.276 223.523L 483.131 239.093L 474.559 251.807L 461.846 260.379L 446.276 263.523L 430.706 260.379L 417.992 251.807L 409.42 239.093L 406.276 223.523L 409.42 207.953L 417.992 195.239L 430.706 186.667L 446.276 183.523L 461.846 186.667L 474.559 195.239L 483.131 207.953L 486.276 223.523L 486.276 223.523L 486.276 223.523z"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 164.329 254.364L 161.184 269.934L 152.612 282.649L 139.899 291.221L 124.328 294.364L 108.758 291.221L 96.0438 282.649L 87.4718 269.934L 84.3278 254.364L 87.4718 238.794L 96.0438 226.08L 108.758 217.508L 124.328 214.364L 139.899 217.508L 152.612 226.08L 161.184 238.794L 164.329 254.364L 164.329 254.364L 164.329 254.364z"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 294.908 374.575L 294.908 381.575"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 292.908 376.575L 294.908 374.575"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 292.908 381.575L 296.908 381.575"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 390.575 201.241L 391.575 199.241"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 391.575 199.241L 393.575 199.241"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 393.575 199.241L 394.575 200.241"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 394.575 200.241L 394.575 202.241"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 394.575 202.241L 390.575 206.241"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 390.575 206.241L 395.575 206.241"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 446.408 352.075L 447.408 351.075"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 447.408 351.075L 449.408 351.075"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 449.408 351.075L 450.408 352.075"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 450.408 352.075L 450.408 354.075"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 450.408 354.075L 448.408 355.075"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 450.408 355.075L 450.408 357.075"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 450.408 357.075L 449.408 358.075"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 449.408 358.075L 447.408 358.075"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 447.408 358.075L 446.408 357.075"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 448.408 355.075L 450.408 355.075"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 292.242 84.9919L 291.242 89.2419"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 290.992 89.3248L 294.992 89.3248"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 294.242 85.2419L 294.242 92.2419"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 192.241 198.408L 192.241 201.408"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 192.241 201.408L 194.241 201.408"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 194.241 201.408L 195.241 202.408"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 195.241 202.408L 195.241 204.408"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 195.241 204.408L 194.241 205.408"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 194.241 205.408L 193.241 205.408"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 193.241 205.408L 192.241 204.408"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 192.241 198.408L 195.241 198.408"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 140.908 357.241L 139.908 356.241"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 139.908 356.241L 137.908 356.241"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 137.908 356.241L 136.908 357.241"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 136.908 357.241L 136.908 362.241"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 136.908 362.241L 137.908 363.241"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 137.908 363.241L 139.908 363.241"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 139.908 363.241L 140.908 362.241"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 140.908 362.241L 140.908 360.241"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 140.908 360.241L 139.908 359.241"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 139.908 359.241L 137.908 359.241"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 136.908 360.241L 137.908 359.241"/>
+<path style="stroke:#ffff00; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 299.109 94.3559L 287.531 94.3559L 287.531 81.7239L 299.109 81.7239L 299.109 94.3559L 299.109 94.3559z"/>
+<path style="stroke:#000000; stroke-width:1.0; fill:none; font-family:Times; font-size:12.0" d="M 232.047 377.164L 224.64 377.298"/>
+</g>
+</svg>
