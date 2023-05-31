@@ -12,3 +12,5 @@ Before running, run: python setup.py build_ext --inplace
 Controls: 
 Arrow keys to move and navigate the menu. 
 Enter and Escape to navigate menus.
+
+Requirements: Cython, Pygame < 2.2
